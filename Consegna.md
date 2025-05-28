@@ -1,5 +1,5 @@
 
-###Consegna: Progetto Java – Gestione di una Biblioteca
+#Consegna: Progetto Java – Gestione di una Biblioteca
 	Obiettivo:
 	Realizzare una applicazione Java a riga di comando per la gestione di una biblioteca. 
 	Il sistema deve permettere di gestire un insieme di libri, interagire con l’utente tramite menu testuali, e fornire funzionalità per la consultazione e modifica del catalogo.
